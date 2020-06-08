@@ -4,9 +4,9 @@
 
 
 
-#### Into Binary Search Tree
+### Into Binary Search Tree
 
-<img src=".p1.png" width="650px" height="auto" align="center"></img>
+<img src="p1.png" width="650px" height="auto" align="center"></img>
 
 Binary search trees are excellent ways to store sorted data. The data structure can provide a relatively quick run time of 
 O (log(n)) for searching, insertion and removal. This post will walk through what a Binary Search Tree(BST) is, how to create 
@@ -152,7 +152,7 @@ bst1.lookup(3)
 </pre>
 
 ##### Why ? 
-<img src=".p2.png" width="650px" height="auto" align="center"></img>
+<img src="p2.png" width="650px" height="auto" align="center"></img>
 
 
 BST's primary benefit is search time!
