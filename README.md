@@ -6,3 +6,5 @@ Drop of water will makes an Ocean.
 
 #### [2020/06](2020/06)
 
+2020/06/09 ~ 
+Move to blog ! 
